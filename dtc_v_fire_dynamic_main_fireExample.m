@@ -19,7 +19,7 @@ KeepModelled = []; %Is commented but it can be uncommented
 addpath('..\UJ_PREDICTION1\deconvolution');
 addpath('..\UJ_PREDICTION1\TimePrediction');
 %addpath ..\DTC_ChangeDetection\Distributions
-addpath('..\UJ_PREDICTION1\Distributions2');
+addpath('..\UJ_PREDICTION1\Distributions');
 addpath('..\UJ_PREDICTION1\Contextual');
 addpath('..\UJ_PREDICTION1\Distributions2\Coefficients3');
 addpath('..\UJ_PREDICTION1\Results');
