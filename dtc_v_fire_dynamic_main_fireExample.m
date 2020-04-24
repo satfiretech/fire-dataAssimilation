@@ -16,12 +16,12 @@ KeepModelled = []; %Is commented but it can be uncommented
 
 %clear all
 %addpath('NDeconvolution');
-addpath('..\UJ_PREDICTION1\deconvolution');
+%addpath('..\UJ_PREDICTION1\deconvolution');
 addpath('..\UJ_PREDICTION1\TimePrediction');
 %addpath ..\DTC_ChangeDetection\Distributions
-addpath('..\UJ_PREDICTION1\Distributions');
+addpath('..\Distributions');
+addpath('..\Distributions\Coefficients3');
 addpath('..\UJ_PREDICTION1\Contextual');
-addpath('..\UJ_PREDICTION1\Distributions2\Coefficients3');
 addpath('..\UJ_PREDICTION1\Results');
 %addpath('UJ_PREDICTION1\solarTimeLocation');
 %addpath('models');
