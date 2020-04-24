@@ -21,12 +21,11 @@ addpath('..\UJ_PREDICTION1\TimePrediction');
 %addpath ..\DTC_ChangeDetection\Distributions
 addpath('..\Distributions');
 addpath('..\Distributions\Coefficients3');
-addpath('..\UJ_PREDICTION1\Contextual');
+%addpath('..\UJ_PREDICTION1\Contextual');
 addpath('..\UJ_PREDICTION1\Results');
 %addpath('UJ_PREDICTION1\solarTimeLocation');
-%addpath('models');
-%addpath('MODEL');
-%addpath('POTENTIAL');
+addpath('..\Model');
+addpath('..\Potential');
 load FNDATAREGIONFILE;
 
 
