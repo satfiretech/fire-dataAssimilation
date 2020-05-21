@@ -21,6 +21,11 @@ Brighteness temperatures are extracted using the [GDAL library](https://gdal.org
 The following file contains the structured format of the IR 3.9 brightness temperature from (20 S, 23 E) to (33 S, 38 E): 
 FNDATAREGIONFILE.mat at https://www.dropbox.com/s/ibhdy51j91hdxwr/FNDATAREGIONFILE.mat?dl=0
 
+## Running the tests
+
+```
+.
+```
 
 ## Reference
 
