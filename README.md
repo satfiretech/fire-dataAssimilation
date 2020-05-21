@@ -1,4 +1,4 @@
-
+# Satellite-based fire detection using data assimilation concepts
 
 This package includes the MATLAB source codes for a satellite-based fire detection method.  The background temperature of a pixel is estimated using the data assimilation scheme and the ensemble forecasting mechanism. The threshold on the difference between the observed brightness temperature and the expected background temperature is derived under Constant False Alarm Rate (CFAR) framework. 
 
