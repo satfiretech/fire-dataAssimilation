@@ -24,7 +24,7 @@ FNDATAREGIONFILE.mat at https://www.dropbox.com/s/ibhdy51j91hdxwr/FNDATAREGIONFI
 ## Running the tests
 
 ```
-.
+>> dtc_v_fire_dynamic_main_fireExample
 ```
 
 ## Reference
