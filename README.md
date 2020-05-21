@@ -1,11 +1,15 @@
 
+
+This package includes the MATLAB source codes for a satellite-based fire detection method.  The background temperature of a pixel is estimated using the data assimilation scheme and the ensemble forecasting mechanism. The threshold on the difference between the observed brightness temperature and the expected background temperature is derived under Constant False Alarm Rate (CFAR) framework. 
+
+
 The package implements three data assimilation methods:
 
-•	The Ensemble Kalman Filter (EnKF)
+ •	The Ensemble Kalman Filter (EnKF)
 
-•	The Sampling Importance Resampling (SIR)
+ •	The Sampling Importance Resampling (SIR)
 
-•	The weak-constraint Four-Dimensional Variational Assimilation (4D-Var)
+ •	The weak-constraint Four-Dimensional Variational Assimilation (4D-Var)
 
 
 ## fire-dataAssimilation
