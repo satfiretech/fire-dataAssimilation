@@ -1,3 +1,5 @@
+Satellite-based fire detection using data assimilation concepts
+
 
 The package implements three data assimilation methods:
 •	The Ensemble Kalman Filter (EnKF)
